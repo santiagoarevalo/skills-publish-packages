@@ -103,6 +103,20 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - You built a fully deployable artifact.
 - You did so using GitHub Actions and GitHub Packages!
 
+# Evidence
+
+<img src="images/dockerlogin.png">
+<br>
+
+<img src="images/dockerpull.png">
+<br>
+
+<img src="images/dockerrun.png">
+<br>
+
+<img src="images/tic.png">
+
+
 ### What's next?
 
 - Publish your own packages from your projects.
